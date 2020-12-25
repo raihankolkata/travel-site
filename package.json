@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "file-loader": "^6.2.0",
     "lodash": "^4.17.20",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "url-loader": "^4.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.1.0",
